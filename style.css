@@ -1,0 +1,34 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 850px;
+    font-size: 22px;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+    margin: 0px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px white;
+}
+#status,#no_of_obj,.button_st{
+    font-size: 18px;
+    box-shadow: 5px 5px 5px rgb(117, 122, 119);
+}
+
+#copyright{
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    position: fixed;
+    background-color: gray;
+    box-shadow:5px 5px 5px honeydew;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+canvas{
+    border-radius: 15px;
+    box-shadow:5px 5px 5px  gray;
+    margin-top: 50px;
+}
